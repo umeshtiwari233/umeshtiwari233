@@ -1,5 +1,15 @@
-### Hi there 👋
+ **Hi there! I am **Umesh Tiwari** 👋**
 
+😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜                                       
+🎓 Pursuing BTech in Information Technology.                                                                              
+💼 Flutter developer and front-end web developer.                                                                            
+🌱 Enthusiast in Python 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.                                                                             
+😄 4 Star at Codechef.                                                                            
+😄 6 star a hackerrank.                                                                            
+👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 Flutter 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.                                                                            
+🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜.                                                                            
+⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : I’m a enthusiatic learner and very technical person.                                                                            
+🤔 Exploring new technologies and developing software solutions and quick hacks.                                                                            
 <!--
 **umeshtiwari233/umeshtiwari233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
