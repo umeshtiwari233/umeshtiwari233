@@ -2,7 +2,7 @@
 
 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜                                       
 🎓 Pursuing BTech in Information Technology.                                                                              
-💼 Flutter developer and front-end web developer.                                                                            
+💼 Flutter developer and spring core,maven.                                                                            
 🌱 Enthusiast in Python 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.                                                                             
 😄 4 Star at Codechef.                                                                            
 😄 6 star a hackerrank.                                                                            
