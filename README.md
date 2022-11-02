@@ -10,7 +10,7 @@
 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜.                                                                            
 ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : I’m a enthusiatic learner and very technical person.                                                                            
 🤔 Exploring new technologies and developing software solutions and quick hacks.                                                                            
-[![@umeshtiwariit19's Holopin board](https://holopin.me/umeshtiwariit19)](https://holopin.io/@umeshtiwariit19)
+[![@umeshtiwari233's Holopin board](https://holopin.me/umeshtiwari233)](https://holopin.io/@umeshtiwari233)
 <br/>
 <br/>
 <br/>                                                                    
